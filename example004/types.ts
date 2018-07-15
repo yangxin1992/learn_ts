@@ -19,3 +19,6 @@ const test = [ new a(), new b(), new c() ];
 if (test[0] instanceof a) {
   (test[0] as a).a;
 }
+
+window.onkeydown = (ev) => {
+}
