@@ -1,5 +1,11 @@
-import $ from "jquery";
+// import $ from "jquery";
 
-$(document.body).html('123')
+// $(document.body).html('123')
 
-console.log(OwnSpace.vName);
+// console.log(OwnSpace.vName);
+
+// import some from './some';
+
+// console.log(some);
+
+import { version } from "lodash";
